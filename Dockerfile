@@ -1,4 +1,4 @@
-FROM odoo8.0
+FROM odoo:8.0
 
 MAINTAINER Benoît "XtremXpert" Vézina <xtremxpert@xtremxpert.com>
 
